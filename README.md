@@ -5,6 +5,6 @@ Each notebook explores a dataset end to end: understanding its structure, cleani
 
 The content of this repository is for educational and exploratory purposes only and are **not** medical advice.
 
-### Author
+#### Author
 
 **Leonardo Terra** – [GitHub](https://github.com/LeonardoTerra)
