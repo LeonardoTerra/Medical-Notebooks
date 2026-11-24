@@ -1,8 +1,7 @@
 ## Summary
 
 A collection of Jupyter notebooks with medical and healthcare datasets.
-
-Each notebook explores a dataset end to end: understanding its structure, cleaning it, summarizing it with statistics and visualizations, and pulling out insights that can guide further analysis or modeling.
+Each notebook explores a dataset end to end: understanding its structure, cleaning it, summarizing it with statistics and visualizations, and pulling out insights.
 
 ### Typical EDA workflow
 
