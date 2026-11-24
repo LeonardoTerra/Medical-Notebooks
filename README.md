@@ -1,6 +1,6 @@
 ## Summary
 
-A collection of Jupyter notebooks with **Exploratory Data Analyses (EDA)** of medical and healthcare datasets.
+A collection of Jupyter notebooks with medical and healthcare datasets.
 
 Each notebook explores a dataset end to end: understanding its structure, cleaning it, summarizing it with statistics and visualizations, and pulling out insights that can guide further analysis or modeling.
 
